@@ -31,3 +31,6 @@ pnpm-lock.yaml
 # Docs site
 _site
 /docs/src/assets/css
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
